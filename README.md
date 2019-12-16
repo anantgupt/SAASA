@@ -13,6 +13,8 @@ The steps to use the code are as follows,
 
 3. Analyze the beamparameters and do placement optimization using Lagrangian_optimization.m which returns configuration (subarray centers and poses(up/down)) in <date>.mat.
   a. This script also does local refinement in position and phase to improve cost.
+  
+![Array Synthesis Demo](demo/Refinements.gif)
 
 ## Array analysis
 4. Run script_ZZB2.m to analyze the estimation theoretic bounds for array configurations in <date>.mat.
