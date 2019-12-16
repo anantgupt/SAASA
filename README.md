@@ -1,8 +1,8 @@
-# Sparse_array_design
-This repo provides the code for desigining sparse arrays using sparse array of subarrays architecture. We provide codes for desinging as well as analysis of the algorithm including
-1. Synthesizing the array 
-2. Performing estimation theoretic bound on the Direction of Arrival Estimation (DoA) performance, and 
-3. Evaluate performance of super-resolution and compressive estimation algorithms.
+# Sparse 2D Antenna array design
+This repo provides the code for desigining Large Effective Aperture arrays using sparse array of subarrays architecture. Our approach uses multi-objective optimization of key beam parameters to design the array. We provide codes for design and analysis of our algorithm including
+1. Synthesizing the array.
+2. Performing estimation theoretic bound on the Direction of Arrival Estimation (DoA) performance.
+3. Evaluating performance of super-resolution and compressive estimation algorithms.
 
 The steps to use the code are as follows,
 ## Array Synthesis
